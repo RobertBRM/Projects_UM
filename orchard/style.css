@@ -2,6 +2,27 @@ html{
     text-align: center;
 }
 
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    border: solid black;
+    border-radius: 10px;
+    border-width: 1px;
+    cursor: pointer;
+
+}
+
+.login  {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.signup {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
 footer{
     position: fixed;
     bottom: 0;
