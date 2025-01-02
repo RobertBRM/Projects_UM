@@ -33,3 +33,25 @@ footer{
     text-align: center;
     padding: 1rem;
 }
+
+/*Sign in page*/
+
+
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    height: 100vh;          
+    width: 100%;          
+}
+
+.centered {
+    width: auto;            
+    padding: 20px;          
+    background-color: rgb(228, 117, 117);
+    text-align: center;
+}
+
+.border {
+    border: 2px solid black;
+}
